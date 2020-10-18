@@ -11,7 +11,7 @@
 - Overview of IDE
 - Difference Between IDR and Code Editor
 - Running "Hello, World!" Program
-- Python COmments
+- Python Comments
 - Hash Bang (Shabang) Comments
 - **import** keyword and **modules/libraries** 
 - Statements
