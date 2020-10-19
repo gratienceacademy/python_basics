@@ -1,6 +1,11 @@
 # Python Essentials
 ## Learn about python from scratch to connecting it to the database using Python API. 
 Below are the list of topics that we are going to learn in this course. For detailed concepts and notes do checkout different session folders.
+The whole syllabus is divided in to 2 sections and both will be taught in monthly basis.
+
+## Syllabus
+- [Python Essentials - Month 1](#Python-Essentials---Month-1)
+- [Python Intermediate - Month 2](#Python-Intermediate---Month-2)
 
 ### Python Essentials - Month 1
 - [Introduction](#Introduction)
