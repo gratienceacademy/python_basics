@@ -23,12 +23,10 @@ Below are the list of topics that we are going to learn in this course. For deta
 
 #### Introduction
 - About Python 3
-
 #### Installation
 - Installing Python
 - Installing PyCharm
 - Difference between Python 2 and Python 3
-
 #### Language Ovwerview
 - Hello World
 - Python ANatomy
@@ -40,7 +38,6 @@ Below are the list of topics that we are going to learn in this course. For deta
 - Loops
 - Functions
 - Objects
-
 #### Types and Values
 - Overview
 - The string Type
@@ -48,25 +45,21 @@ Below are the list of topics that we are going to learn in this course. For deta
 - The bool type
 - Sequence types
 - type() and id()
-
 #### Conditionals
 - Conditional Syntax
 - Conditional Operators
 - Conditional assignment
-
 #### Operators
 - Arithmetic operatiors
 - Bitwise operators
 - Comparision operators
 - Boolean operators
 - Operator precedence
-
 #### Loops
 - Python Loops
 - The while loop
 - The for loop
 - Additional controls
-
 #### Functions
 - Defining a function
 - Function Arguements
@@ -75,7 +68,6 @@ Below are the list of topics that we are going to learn in this course. For deta
 - Return values
 - Generators
 - Decorators
-
 #### Structured Data
 - Basic Data structures
 - Lists and tuples
@@ -83,7 +75,6 @@ Below are the list of topics that we are going to learn in this course. For deta
 - Sets
 - List comprehension
 - Mixed Structures
-
 #### Classes
 - Creating a class
 - Constructing an object
@@ -91,38 +82,31 @@ Below are the list of topics that we are going to learn in this course. For deta
 - Object data
 - Ingeritance
 - Iterator Objects
-
 #### Exceptions
 - Handlind Exceptions
 - Reporting Errors
-
 #### String Objects
 - Overview
 - Common string objects
 - Formatting Strings
 - Splitting and Joining
-
 #### File I/O
 - Opening files
 - Text vs. binary mode
 - Text files
 - Binary files
-
 #### Built-in Functions
 - Numeric Functions
 - String Functions
 - Container Functions
 - Object and Class functions
-
 #### Modules
 - Using standard modules
 - Creating a module
-
 #### Databases
 - Python database API
 - A database interface
 - Example - A short URL Database
-
 #### Cocnlusion
 - Next Steps
 - How to use Python for real time projects
