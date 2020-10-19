@@ -27,7 +27,7 @@ Below are the list of topics that we are going to learn in this course. For deta
 - Installing Python
 - Installing PyCharm
 - Difference between Python 2 and Python 3
-#### Language Ovwerview
+#### Language Overview
 - Hello World
 - Python ANatomy
 - Expression and Statements
