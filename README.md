@@ -2,7 +2,7 @@
 ## Learn about python from scratch to connecting it to the database using Python API. 
 Below are the list of topics that we are going to learn in this course. For detailed concepts and notes do checkout different session folders.
 
-### Month 1 Syllabus - Python Essentials
+### Python Essentials - Month 1
 - [Introduction](#Introduction)
 - [Installation](#Installation)
 - [Language Overview](#Language-Overview)
@@ -29,7 +29,7 @@ Below are the list of topics that we are going to learn in this course. For deta
 - Difference between Python 2 and Python 3
 #### Language Overview
 - Hello World
-- Python ANatomy
+- Python Anatomy
 - Expression and Statements
 - Whitespace and Comments
 - Using print()
@@ -110,3 +110,12 @@ Below are the list of topics that we are going to learn in this course. For deta
 #### Cocnlusion
 - Next Steps
 - How to use Python for real time projects
+
+### Python Intermediate - Month 2
+- [Working with Dates and Time](Working-with-Dates-and-Time)
+- [Working with Files](Working-with-Files)
+- [Working with Web data](Working-with-Web-data)
+
+#### Working with Dates and Time
+#### Working with Files
+#### Working with Web data
