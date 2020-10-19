@@ -3,6 +3,8 @@
 Below are the list of topics that we are going to learn in this course. For detailed concepts and notes do checkout different session folders.
 The whole syllabus is divided in to 2 sections and both will be taught in monthly basis.
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
+
 ## Syllabus
 - [Python Essentials - Month 1](#Python-Essentials---Month-1)
 - [Python Intermediate - Month 2](#Python-Intermediate---Month-2)
