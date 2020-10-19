@@ -112,10 +112,36 @@ Below are the list of topics that we are going to learn in this course. For deta
 - How to use Python for real time projects
 
 ### Python Intermediate - Month 2
-- [Working with Dates and Time](Working-with-Dates-and-Time)
-- [Working with Files](Working-with-Files)
-- [Working with Web data](Working-with-Web-data)
+- [Working with Dates and Time](#Working-with-dates-and-time)
+- [Working with Files](#Working-with-files)
+- [Working with Web data](#Working-with-web-data)
+- [Python for Data Visualization](#Python-for-Data-Visualization)
+- [Programming Efficiently](#Programming-Efficiently)
 
 #### Working with Dates and Time
+- The date, time, and datetime classes
+- Formatting time output
+- Using timedelta objects
+- Working with calendars
 #### Working with Files
+- Read and writing files
+- Working with OS path utilities
+- Using file system shell methods
 #### Working with Web data
+- Fetching internet data
+- Working with JSON data
+- Parsing and processing HTML
+- Manipulating XML
+#### Python for Data Visualization
+- Introduction
+- Data Visualization Tools
+- Pandas
+- Matplotlib
+- Advanced Plotting
+#### Programming Efficiently
+- Writing Python Efficiently
+- Exploiting Python Libraries
+- Advanced: Python Objecy-Oriented & Functional Programming
+- Introduction to Performance Optimization in Python
+
+###### Copyright 2020 Gratience Academy | All Rights Reserved
