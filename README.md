@@ -8,23 +8,23 @@ The whole syllabus is divided in to 2 sections and both will be taught in monthl
 ## Time Table
 | Course  | Day | Date  | Topic of Discussion | Session Time |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Pyhton Essentials  | 1  | 01-11-2020  | Introduction  | 19:00  |
-| Pyhton Essentials  | 1  | 01-11-2020  | Installation  | 19:00  |
-| Pyhton Essentials  | 1  | 01-11-2020  | Language Overview  | 19:00  |
-| Pyhton Essentials  | 2  | 03-11-2020  | Types & Values  | 19:00  |
-| Pyhton Essentials  | 3  | 05-11-2020  | Conditionals  | 19:00  |
-| Pyhton Essentials  | 3  | 05-11-2020  | Operators  | 19:00  |
-| Pyhton Essentials  | 4  | 07-11-2020  | Loops  | 19:00  |
-| Pyhton Essentials  | 5  | 10-11-2020  | Functions  | 20:00  |
-| Pyhton Essentials  | 6  | 13-11-2020  | Structured Data  | 20:00  |
-| Pyhton Essentials  | 6  | 13-11-2020  | Classes  | 20:00  |
-| Pyhton Essentials  | 7  | 15-11-2020  | Exceptions  | 20:00  |
-| Pyhton Essentials  | 8  | 18-11-2020  | String Objects  | 20:00  |
-| Pyhton Essentials  | 8  | 18-11-2020  | File I/O  | 20:00  |
-| Pyhton Essentials  | 9  | 20-11-2020  | Built-in Functions  | 20:00  |
-| Pyhton Essentials  | 9  | 20-11-2020  | Modules  | 20:00  |
-| Pyhton Essentials  | 10  | 22-11-2020  | Databases  | 20:00  |
-| Pyhton Essentials  | 10  | 22-11-2020  | Conclusion  | 20:00  |
+| Python Essentials  | 1  | 01-11-2020  | Introduction  | 19:00  |
+| Python Essentials  | 1  | 01-11-2020  | Installation  | 19:00  |
+| Python Essentials  | 1  | 01-11-2020  | Language Overview  | 19:00  |
+| Python Essentials  | 2  | 03-11-2020  | Types & Values  | 19:00  |
+| Python Essentials  | 3  | 05-11-2020  | Conditionals  | 19:00  |
+| Python Essentials  | 3  | 05-11-2020  | Operators  | 19:00  |
+| Python Essentials  | 4  | 07-11-2020  | Loops  | 19:00  |
+| Python Essentials  | 5  | 10-11-2020  | Functions  | 20:00  |
+| Python Essentials  | 6  | 13-11-2020  | Structured Data  | 20:00  |
+| Python Essentials  | 6  | 13-11-2020  | Classes  | 20:00  |
+| Python Essentials  | 7  | 15-11-2020  | Exceptions  | 20:00  |
+| Python Essentials  | 8  | 18-11-2020  | String Objects  | 20:00  |
+| Python Essentials  | 8  | 18-11-2020  | File I/O  | 20:00  |
+| Python Essentials  | 9  | 20-11-2020  | Built-in Functions  | 20:00  |
+| Python Essentials  | 9  | 20-11-2020  | Modules  | 20:00  |
+| Python Essentials  | 10  | 22-11-2020  | Databases  | 20:00  |
+| Python Essentials  | 10  | 22-11-2020  | Conclusion  | 20:00  |
 | Python Intermediate  | 11  | 02-12-2020  | Working with Dates and Time  | 20:00  |
 | Python Intermediate  | 12  | 04-12-2020  | Working with Files  | 20:00  |
 | Python Intermediate  | 13  | 08-12-2020  | Working with Web Data  | 20:00  |
