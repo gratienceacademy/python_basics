@@ -5,6 +5,35 @@ The whole syllabus is divided in to 2 sections and both will be taught in monthl
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 
+| Course  | Day | Date  | Topic of Discussion | Session Time |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Pyhton Essentials  | 1  | 01-11-2020  | Introduction  | Content Cell  |
+| Pyhton Essentials  | 1  | 01-11-2020  | Installation  | Content Cell  |
+| Pyhton Essentials  | 1  | 01-11-2020  | Language Overview  | Content Cell  |
+| Pyhton Essentials  | 2  | 03-11-2020  | Types & Values  | Content Cell  |
+| Pyhton Essentials  | 3  | 05-11-2020  | Conditionals  | Content Cell  |
+| Pyhton Essentials  | 3  | 05-11-2020  | Operators  | Content Cell  |
+| Pyhton Essentials  | 4  | 07-11-2020  | Loops  | Content Cell  |
+| Pyhton Essentials  | 5  | 10-11-2020  | Functions  | Content Cell  |
+| Pyhton Essentials  | 6  | 13-11-2020  | Structured Data  | Content Cell  |
+| Pyhton Essentials  | 6  | 13-11-2020  | Classes  | Content Cell  |
+| Pyhton Essentials  | 7  | 15-11-2020  | Exceptions  | Content Cell  |
+| Pyhton Essentials  | 8  | 18-11-2020  | String Objects  | Content Cell  |
+| Pyhton Essentials  | 8  | 18-11-2020  | File I/O  | Content Cell  |
+| Pyhton Essentials  | 9  | 20-11-2020  | Built-in Functions  | Content Cell  |
+| Pyhton Essentials  | 9  | 20-11-2020  | Modules  | Content Cell  |
+| Pyhton Essentials  | 10  | 22-11-2020  | Databases  | Content Cell  |
+| Pyhton Essentials  | 10  | 22-11-2020  | Conclusion  | Content Cell  |
+| Python Intermediate  | 11  | Content Cell  | Content Cell  | Content Cell  |
+| Python Intermediate  | 12  | Content Cell  | Content Cell  | Content Cell  |
+| Python Intermediate  | 13  | Content Cell  | Content Cell  | Content Cell  |
+| Python Intermediate  | 14  | Content Cell  | Content Cell  | Content Cell  |
+| Python Intermediate  | 15  | Content Cell  | Content Cell  | Content Cell  |
+| Python Intermediate  | 15  | Content Cell  | Content Cell  | Content Cell  |
+| Python Intermediate  | 16  | Content Cell  | Content Cell  | Content Cell  |
+| Python Intermediate  | 16  | Content Cell  | Content Cell  | Content Cell  |
+| Python Intermediate  | 16  | Content Cell  | Content Cell  | Content Cell  |
+
 ## Syllabus
 - [Python Essentials - Month 1](#Python-Essentials---Month-1)
 - [Python Intermediate - Month 2](#Python-Intermediate---Month-2)
