@@ -11,9 +11,9 @@ In this document it is mentioned all the points that are discussed in the Python
     - [Installing VS Code](#Installing-VS-Code)
 3. [Language Overview](#Language-Overview)
     - [Hello World Program and Zen of Python](#Hello-World-Program-and-Zen-of-Python)
-    - [Variables, Expression and Statements](#Variables,-Expression-and-Statements)
+    - [Variables, Expression and Statements](#Variables-Expression-and-Statements)
     - [Indentation and Comments](#Indentation-and-Comments)
-    - [Using print()](#Using-print())
+    - [Using print()](#Using-print)
     - [Blocks](#Blocks)
     - [Contitionals](#Contitionals)
     - [Loops](#Loops)
@@ -211,3 +211,6 @@ There are mainly 3 loops are there in Python,
 Please goto this link to find the recording of the class [Microsoft Stream.](https://web.microsoftstream.com/video/0334f8b2-9a12-41d7-a0ca-3f9969382305)
 - Please use your Gratience Academy IDs to access the video. The recording is non-distributable.
 
+
+
+###### Copyright 2020 - Gratience Academy | All rights reserved with Apache 2.0 License
