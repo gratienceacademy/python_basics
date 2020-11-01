@@ -4,5 +4,13 @@
 x = 42
 y = 73
 
+# Compares the vallue of x and y
 if x < y:
     print('x < y: x is {} and y is {}'.format(x, y))
+
+if x > y:
+    print('x > y: x is {} and y is {}'.format(x, y))
+    print("Inside Condition")
+
+x = 10
+print(x)

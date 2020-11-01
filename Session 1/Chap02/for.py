@@ -3,6 +3,6 @@
 
 words = ['one', 'two', 'three', 'four', 'five']
 
-for i in words:
-    print(i)
+for index in words:
+    print(index)
 
