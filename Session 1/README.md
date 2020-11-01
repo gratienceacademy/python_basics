@@ -179,6 +179,7 @@ There are mainly 3 loops are there in Python,
 4. [Variables, Expression and Statements](https://www.wisdomaxis.com/technology/software/python/what-is-Python-Variable-Expression-Statement.php)
 5. [Indentation and Comments](https://www.programiz.com/python-programming/statement-indentation-comments)
 6. [Python Blocks](https://www.python-course.eu/python3_blocks.php)
+7. [Loops](https://www.tutorialspoint.com/python/python_loops.htm#:~:text=Python%20-%20Loops%20%20%20%20Sr.No.%20,can%20use%20one%20or%20more%20loo%20...%20)
 
 ### Missed Topics
 1. Scope
