@@ -134,10 +134,12 @@ print('This is python version {}'.format(platform.python_version()))
 print('This is python version ' + str(platform.python_version()))
 ```
 
-### Blocks
+#### Blocks
 A block is a group of statements in a program or script. Usually, it consists of at least one statement and declarations for the block, depending on the programming or scripting language. A language which allows grouping with blocks, is called a block structured language. Generally, blocks can contain blocks as well, so we get a nested block structure. A block in a script or program functions as a means to group statements to be treated as if they were one statement. In many cases, it also serves as a way to limit the lexical scope of variables and functions.
 Python uses a different principle. Python programs get structured through indentation, i.e. code blocks are defined by their indentation. Okay that's what we expect from any program code, isn't it? Yes, but in the case of Python it's a language requirement, not a matter of style. This principle makes it easier to read and understand other people's Python code.
+
 ![Block Structure](https://www.python-course.eu/images/blocks.png)
+
 ```
 from math import sqrt
 n = input("Maximum Number? ")
@@ -152,6 +154,7 @@ for a in range(1,n):
 
 #### Contitionals
 ![If-else conditional flowchart](http://1.bp.blogspot.com/-3aE4DKXIGf0/UQ3q4RPUSSI/AAAAAAAAA2I/0NsrJ2hnLr0/s1600/if-else.jpg)
+
 Conditional statements that controls execution of the program with conditions by validating expressions that we provide. As we saw in the above example it uses if or else condition the execute and validate the code execution. To see the program visit this [link](Chap02/blocks.py)
 
 In Python, there are mainly 3 conditional statements or you can call them as keywords as well, ```if```, ```elif``` and ```else```. To understand this in a simple way, when program is running it checks the ```if``` condition block first and then later on if ```elif``` block exists, it checks that condition too (if ```if``` block condition is false) and finally it checks ```else``` block for whatever the remaining condition.
@@ -160,6 +163,7 @@ It is not mandatory to have all 3 conditions in the code, progrma work even for 
 
 #### Loops
 ![Flow](https://www.tutorialspoint.com/python/images/loop_architecture.jpg)
+
 There are mainly 3 loops are there in Python,
 1. ```for``` loops 
     - [Example](Chap02/for.py)
@@ -181,4 +185,5 @@ There are mainly 3 loops are there in Python,
 2. Control Statements
 3. Nested Loops (do...while)
 4. Functions
+5. Objects
 
