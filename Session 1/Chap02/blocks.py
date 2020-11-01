@@ -7,9 +7,9 @@ y = 73
 # Compares the vallue of x and y
 if x < y:
     print('x < y: x is {} and y is {}'.format(x, y))
-elif x > y
+elif x > y:
     print("x is greater than y")
-else
+else:
     print("x and y are equal")
 
 if x > y:
