@@ -9,7 +9,7 @@
 - Installation of PyCharm
 - Checking the Status of Python Installation in CLI
 - Overview of IDE
-- Difference Between IDR and Code Editor
+- Difference Between IDE and Code Editor
 - Running "Hello, World!" Program
 - Python Comments
 - Hash Bang (Shabang) Comments
