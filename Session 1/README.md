@@ -1,6 +1,25 @@
-# Details of Python Basics Session 1
-## In this document it is mentioned that all the points that are discussed in the Python Class Session 1.
-
+# Python Basics Session 1 - Notes
+In this document it is mentioned all the points that are discussed in the Python Class Session 1.
+## Contents
+1. [Introduction](#Introduction)
+    - [About Python](#About-Python)
+    - [What can Python do?](#What-can-Python-do?)
+    - [Why Python?](#Why-Python?)
+    - [Difference between Python 2 and Python 3](#Difference-between-Python-2-and-Python-3)
+2. [Installation](#Installation)
+    - [Installing Python](#Installing-Python)
+    - [Installing VS Code](#Installing-VS-Code)
+3. [Language Overview](#Language-Overview)
+    - [Hello World Program and Zen of Python](#Hello-World-Program-and-Zen-of-Python)
+    - [Variables, Expression and Statements](#Variables,-Expression-and-Statements)
+    - [Indentation and Comments](#Indentation-and-Comments)
+    - [Using print()](#Using-print())
+    - [Blocks](#Blocks)
+    - [Contitionals](#Contitionals)
+    - [Loops](#Loops)
+4. [References](#References)
+5. [Missed Topics](#Missed-Topics)
+6. [Session Recording](#Session-Recording)
 ### Introduction
 #### About Python
 Python is a widely used general-purpose, high level programming language. It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation. It was designed with an emphasis on code readability, and its syntax allows programmers to express their concepts in fewer lines of code.
@@ -25,7 +44,7 @@ Python is a widely used general-purpose, high level programming language. It was
 ### Installation
 #### Installing Python
 - Visit https://python.org and download python and also make sure to install it for all users in your system.
-#### Installing VS Code**
+#### Installing VS Code
 - Visit https://code.visualstudio.com and download VS Code and then install it in your system. 
 - Download Python Extension from the extension tab at the let side of VS code or you can also install the plugin bu visiting [here.](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
@@ -187,4 +206,8 @@ There are mainly 3 loops are there in Python,
 3. Nested Loops (do...while)
 4. Functions
 5. Objects
+
+### Session Recording
+Please goto this link to find the recording of the class [Microsoft Stream.](https://web.microsoftstream.com/video/0334f8b2-9a12-41d7-a0ca-3f9969382305)
+- Please use your Gratience Academy IDs to access the video. The recording is non-distributable.
 
