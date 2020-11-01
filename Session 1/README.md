@@ -135,10 +135,10 @@ print('This is python version ' + str(platform.python_version()))
 ```
 
 #### Blocks
+![Block Structure](https://www.python-course.eu/images/blocks.png)
+
 A block is a group of statements in a program or script. Usually, it consists of at least one statement and declarations for the block, depending on the programming or scripting language. A language which allows grouping with blocks, is called a block structured language. Generally, blocks can contain blocks as well, so we get a nested block structure. A block in a script or program functions as a means to group statements to be treated as if they were one statement. In many cases, it also serves as a way to limit the lexical scope of variables and functions.
 Python uses a different principle. Python programs get structured through indentation, i.e. code blocks are defined by their indentation. Okay that's what we expect from any program code, isn't it? Yes, but in the case of Python it's a language requirement, not a matter of style. This principle makes it easier to read and understand other people's Python code.
-
-![Block Structure](https://www.python-course.eu/images/blocks.png)
 
 ```
 from math import sqrt
