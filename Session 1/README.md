@@ -39,7 +39,7 @@ Python is a widely used general-purpose, high level programming language. It was
 - Python can be treated in a procedural way, an object-oriented way or a functional way.
 
 #### Difference between Python 2 and Python 3
-![Differences](../python_difference.png)
+![Differences](https://github.com/gratienceacademy/python_basics/blob/main/Session%201/python_difference.PNG)
 
 ### Installation
 #### Installing Python
