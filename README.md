@@ -8,9 +8,9 @@ The whole syllabus is divided in to 2 sections and both will be taught in monthl
 ## Time Table
 | Course  | Day | Date  | Topic of Discussion | Session Time | Session Details |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Python Essentials  | 1  | 01-11-2020  | Introduction  | 19:00  | [Class One](https://github.com/gratienceacademy/python_basics/tree/main/Session%201) |
-| Python Essentials  | 1  | 01-11-2020  | Installation  | 19:00  | [Class One](https://github.com/gratienceacademy/python_basics/tree/main/Session%201) |
-| Python Essentials  | 1  | 01-11-2020  | Language Overview  | 19:00  | [Class One](https://github.com/gratienceacademy/python_basics/tree/main/Session%201) |
+| Python Essentials  | 1  | 01-11-2020  | Introduction  | 19:00  | [Class One](https://github.com/gratienceacademy/python_basics/tree/main/Class%201) |
+| Python Essentials  | 1  | 01-11-2020  | Installation  | 19:00  | [Class One](https://github.com/gratienceacademy/python_basics/tree/main/Class%201) |
+| Python Essentials  | 1  | 01-11-2020  | Language Overview  | 19:00  | [Class One](https://github.com/gratienceacademy/python_basics/tree/main/Class%201) |
 | Python Essentials  | 2  | 03-11-2020  | Types & Values  | 19:00  | TBD |
 | Python Essentials  | 3  | 05-11-2020  | Conditionals  | 19:00  | TBD |
 | Python Essentials  | 3  | 05-11-2020  | Operators  | 19:00  | TBD |
