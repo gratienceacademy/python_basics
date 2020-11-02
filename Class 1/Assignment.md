@@ -14,4 +14,4 @@ Steps for the program:
 
 Program should contain an ```expression```, a ```statement``` and it should have ```if``` condition and ```for``` loop with the ```lists```.
 
-###### Copyright 2020 - Gratience Academy | All rights reserved 
+###### Copyright 2020 - Gratience Academy | All rights reserved with Apache 2.0 License
